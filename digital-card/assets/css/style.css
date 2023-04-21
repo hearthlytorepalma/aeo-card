@@ -206,7 +206,7 @@ a {
 
 /* footer mobile view */
 .footerz {
-    background-color: #433626;
+    background-color: #6E6969;
     display: none;
     z-index: 10;
 }
@@ -233,7 +233,7 @@ a {
 
     .content-bg {
         border-radius: 0;        
-        height: 91%;
+        height: 100%;
     }
 
     .outer-border {
