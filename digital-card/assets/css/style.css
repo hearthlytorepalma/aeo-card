@@ -219,10 +219,6 @@ a {
 
 
 @media only screen and (max-width: 453px) {
-    body {
-    
-    }
-
     .wrapper {
         position: relative;
     }
@@ -237,7 +233,7 @@ a {
 
     .content-bg {
         border-radius: 0;        
-        height: 89%;
+        height: 91%;
     }
 
     .outer-border {
